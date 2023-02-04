@@ -16,6 +16,8 @@ PrintArray2D(numbers);
 
 double[] arr = new double[numbers.GetLength(1)];
 
+
+
 for (int i = 0; i < numbers.GetLength(1); i++)
 {
     double result = 0;
